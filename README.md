@@ -1,29 +1,29 @@
 ```js
 class Seong7{
-  getName () {
-      return 'Seongjin Kim';
-  }
+    getName () {
+        return 'Seongjin Kim';
+    }
 
-  getWork () {
-      return 'Front-end engineer at MakinaRocks';
-  }
+    getWork () {
+        return 'Front-end engineer at MakinaRocks';
+    }
 
-  getStacks () {
-      return ['JavaScript', 'TypeScript', 'React.js', 'Next.js'];
-  }
+    getStacks () {
+        return ['JavaScript', 'TypeScript', 'React.js', 'Next.js'];
+    }
 
-  getLinks () {
-      return [
-          {
-              type: 'blog',
-              link: 'seong7.github.io'
-          },
-          {
-              type: 'linkedIn',
-              link: 'www.linkedin.com/in/seongjin-kim-b3651312a'
-          }
-      ]
-  }
+    getLinks () {
+        return [
+            {
+                type: 'blog',
+                link: 'seong7.github.io'
+            },
+            {
+               type: 'linkedIn',
+               link: 'www.linkedin.com/in/seongjin-kim-b3651312a'
+            }
+        ]
+    }
 }
 ```
 
