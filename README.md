@@ -1,5 +1,5 @@
 ```js
-class Seong7{
+class Seong7 {
     getName () {
         return 'Seongjin Kim';
     }
