@@ -8,8 +8,12 @@ class Seong7 {
         return 'Front-end engineer at MakinaRocks';
     }
 
-    getStacks () {
+    getTechStacks () {
         return ['JavaScript', 'TypeScript', 'React.js', 'Next.js'];
+    }
+    
+    getRecentInterests () {
+        return ['K8s', 'Docker', 'AngularJS'];
     }
 
     getLinks () {
