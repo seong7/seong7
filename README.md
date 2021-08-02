@@ -13,7 +13,7 @@ class Seong7 {
     }
     
     getRecentInterests () {
-        return ['K8s', 'Docker', 'AngularJS'];
+        return ['K8s', 'Docker', 'Angular'];
     }
 
     getLinks () {
