@@ -1,22 +1,22 @@
 ```js
 class Seong7 {
-    getName () {
+    getName() {
         return 'Seongjin Kim';
     }
 
-    getWork () {
+    getWork() {
         return 'Front-end engineer at MakinaRocks';
     }
 
-    getTechStacks () {
+    getTechStacks() {
         return ['JavaScript', 'TypeScript', 'React.js', 'Next.js'];
     }
     
-    getRecentInterests () {
+    getRecentInterests() {
         return ['CI/CD', 'K8s', 'Docker', 'Angular'];
     }
 
-    getLinks () {
+    getLinks() {
         return [
             {
                 type: 'blog',
