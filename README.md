@@ -13,14 +13,17 @@ class Seong7 {
     }
     
     getRecentInterests() {
-        return ['CI/CD', 'K8s', 'Docker', 'Angular'];
+        return ['CI/CD', 'K8s', 'Docker', 'MobX'];
     }
 
     getLinks() {
         return [
             {
-                type: 'blog',
-                link: 'seong7.github.io'
+                type: 'blogs',
+                link: [
+                    'https://seong7.github.io', 
+                    'https://notion-blog-seong7.vercel.app'
+                    ]
             },
             {
                type: 'linkedIn',
