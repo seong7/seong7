@@ -15,21 +15,11 @@ class Seong7 {
     getRecentInterests() {
         return ['CI/CD', 'K8s', 'Docker', 'MobX'];
     }
-
-    getLinks() {
-        return [
-            {
-                type: 'blogs',
-                link: 'https://seong7.github.io', 
-            },
-            {
-               type: 'linkedIn',
-               link: 'www.linkedin.com/in/seongjin-kim-b3651312a'
-            }
-        ]
-    }
 }
 ```
+
+Blog : [***](https://dev0seong7.netlify.com)   
+Linked in : [***](https://www.linkedin.com/in/seongjin-kim-b3651312a/)
 
 
 <!--
