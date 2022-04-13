@@ -20,10 +20,7 @@ class Seong7 {
         return [
             {
                 type: 'blogs',
-                link: [
-                    'https://seong7.github.io', 
-                    'https://notion-blog-seong7.vercel.app'
-                    ]
+                link: 'https://seong7.github.io', 
             },
             {
                type: 'linkedIn',
