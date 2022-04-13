@@ -18,7 +18,7 @@ class Seong7 {
 }
 ```
 
-Blog : [***](https://dev0seong7.netlify.com)   
+Blog : [***](https://dxv.netlify.com)   
 Linked in : [***](https://www.linkedin.com/in/seongjin-kim-b3651312a/)
 
 
