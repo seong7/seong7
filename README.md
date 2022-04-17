@@ -13,13 +13,14 @@ class Seong7 {
     }
     
     getRecentInterests() {
-        return ['CI/CD', 'K8s', 'Docker', 'MobX'];
+        return ['CI/CD', 'K8s', 'Docker', 'MobX', 'custom hooks'];
     }
 }
 ```
 
 Blog : [***](https://dxv.netlify.com)   
-Linked in : [***](https://www.linkedin.com/in/seongjin-kim-b3651312a/)
+Linked in : [***](https://www.linkedin.com/in/seongjin-kim-b3651312a/)   
+Stackoverflow : [***](https://stackoverflow.com/users/11717184/seong-jin-kim?tab=profile)
 
 
 <!--
