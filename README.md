@@ -11,10 +11,6 @@ class Seong7 {
     getTechStacks() {
         return ['JavaScript', 'TypeScript', 'React.js', 'Next.js'];
     }
-    
-    getRecentInterests() {
-        return ['CI/CD', 'K8s', 'Docker', 'MobX', 'custom hooks'];
-    }
 }
 ```
 
