@@ -5,7 +5,7 @@ class Seong7 {
     }
 
     getWork() {
-        return 'Front-end engineer at Kakaopay Securities';
+        return 'Frontend engineer at Kakaopay Securities';
     }
 
     getTechStacks() {
