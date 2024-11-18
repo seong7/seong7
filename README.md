@@ -14,7 +14,6 @@ class Seong7 {
 }
 ```
 
-Blog : [***](https://dxv.netlify.com)   
 Linked in : [***](https://www.linkedin.com/in/seongjin-kim-b3651312a/)   
 Stackoverflow : [***](https://stackoverflow.com/users/11717184/seong-jin-kim?tab=profile)
 
